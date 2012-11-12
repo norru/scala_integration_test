@@ -5,3 +5,18 @@ Testing the Scala shenanigans within Eclipse. This project seems to run properly
 -- m2eclipse
 -- m2eclipse-scala
 -- egit
+- Maven 3.0.4
+
+Apache Maven 3.0.4 (r1232337; 2012-01-17 08:44:56+0000)
+Maven home: /opt/mvn
+Java version: 1.6.0_24, vendor: Sun Microsystems Inc.
+Java home: /usr/lib/jvm/java-6-openjdk-amd64/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "3.5.0-18-generic", arch: "amd64", family: "unix"
+
+- openjdk-7
+
+java version "1.7.0_09"
+OpenJDK Runtime Environment (IcedTea7 2.3.3) (7u9-2.3.3-0ubuntu1~12.10.1)
+OpenJDK 64-Bit Server VM (build 23.2-b09, mixed mode)
+
