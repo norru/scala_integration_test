@@ -1,0 +1,7 @@
+Testing the Scala shenanigans within Eclipse. This project seems to run properly in
+
+- Ubuntu 12.10 64 bit
+- Eclipse Juno 4.2 including
+-- m2eclipse
+-- m2eclipse-scala
+-- egit
